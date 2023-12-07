@@ -12,10 +12,6 @@ This repository contains 6 directories, each of which represents a problem set o
 - Week 7 (Testing, CI/CD) - Network
 - Week 8 (Scalability and Security) - Capstone
 
-> This repository is for the learners of this course to **only** have a sense of the instructions specified in the guidelines of problem sets and for other referencing purposes. Please be aware of CS50's [academic honesty](https://cs50.harvard.edu/x/2021/honesty/).
-
-## Certificate
-
 # CS50W 
 Harvard's CS50W Web Programming with Python and JavaScript
 
