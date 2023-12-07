@@ -12,9 +12,6 @@ This repository contains 6 directories, each of which represents a problem set o
 - Week 7 (Testing, CI/CD) - Network
 - Week 8 (Scalability and Security) - Capstone
 
-# CS50W 
-Harvard's CS50W Web Programming with Python and JavaScript
-
 Project | Title | Topics | Description
 :--:|--|--|--
 0 | Search | HTML, CSS | Implemented Google, a Google search frontend replica. Built with HTML, SaSS, BootStrap5.x <br> 
